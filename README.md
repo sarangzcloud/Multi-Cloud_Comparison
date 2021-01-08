@@ -1,7 +1,7 @@
 # Multi-Cloud_Comparison
 
 Here you go with a quick revision guide for Multi-Cloud Studies.
-
+P.S -- I am updating it as much as possible. Do let me know if you come across any errors or wanna add an update.
 
 
 |AWS|GCP|Azure|
